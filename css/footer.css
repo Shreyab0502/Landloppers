@@ -1,0 +1,27 @@
+.footer {
+    height: 10vh;
+    background: #143774;
+    color: white;
+    margin: 5vh 0 0 0;
+    text-align: center;
+    padding: .5em 0;
+    
+}
+.fa-heart {
+    color: red;
+ }
+ footer a {
+    text-decoration: none;
+    color:white;
+ }
+
+.footer-content {
+    text-align: center;
+    padding: 3vh 0 0 0;
+    font-family: cursive;
+    width: auto;
+    height: auto;
+}
+.topic{
+    font-family: cursive;
+}

@@ -1,0 +1,24 @@
+.custom-container {
+    margin: 5vh 15vw !important;
+    text-align: center;
+}
+
+.blog-page-cover {
+    max-width: 70vw;
+}
+
+.blog-content {
+    text-align: justify;
+    font-family: cursive;
+}
+
+/*Button*/
+.custom-button {
+  background: grey;
+  border-color: yellow;
+  color: #fff;
+}
+
+.hover {
+    background-position: 0;
+  }
