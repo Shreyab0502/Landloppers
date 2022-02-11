@@ -1,16 +1,16 @@
 
-# landlopers
+# landloppers
 
 A multi-page website built using `HTML` and `CSS` skills which includes custom images, layout, and styling. Along with the webpage design considerations, I worked to appropriately structure the files, as well as use proper formatting & style. The project also focusses on using Flexbox and Grid systems to make the page responsive.
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/Shreyab0502/Landloppers.git).
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/Shreyab0502/Landloppers).
 
-The project is also hosted on [Github](https://github.com/Shreyab0502/Landloppers.git).
+The project is also hosted on [Github](https://github.com/Shreyab0502/Landloppers).
 
 ## Table of Contents
 
-	- [Tools Required](#tools-required)
-	- [Installation](#installation)
+- [Tools Required](#tools-required)
+- [Installation](#installation)
 - [Development](#development)
 - [Features](#features)
 - [Running the App](#running-the-app)
@@ -35,6 +35,7 @@ No additional installation is required for this project
   
 * Create `views` directory with the following pages:
   * `AboutUsComponent.html` with about-us info
+  * `ContactUsComponent.html` with Sign up form info
   * `BlogsComponent.html` with all blog posts
   * `BlogPostComponent.html` about one of the post
   
@@ -56,6 +57,7 @@ No additional installation is required for this project
 
 * Create `js` directory with the following file:
   * `app.js` for adding navbar toggle button functionality
+  * `contactform.js` for adding navbar toggle button functionality
 
 For details now how everything has been implemented, refer the source code.
 
