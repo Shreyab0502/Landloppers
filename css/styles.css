@@ -39,9 +39,20 @@
     color: #143774;
     text-decoration: underline;
  }
+ .widget-body{
+   color: darkmagenta;
+ }
  
  .article-info {
     margin: 2em 0;
+ }
+ .content-blog
+ {
+   color: darkred;
+ }
+ .article-body
+ {
+   color:darkmagenta;
  }
  
  
@@ -50,6 +61,11 @@
    display: flex;
    flex-direction: column;
    justify-content: space-between;
+}
+.d-block
+{
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 header {
@@ -90,7 +106,7 @@ h5{
 }
 p
 {
-    color: #337ab7;
+    color: #e0e5e9;
     
 }
 
