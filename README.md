@@ -44,15 +44,6 @@ No additional installation is required for this project
 * Create `css` directory with the following files:
   * `styles.css` with the global styling
   
-  Page Specific CSS
-  * `aboutus.css`
-  * `blogpost.css`
-  * `blogs.css`
-  
-  Component specific CSS
-  * `footer.css`
-  * `navbar.css`
-
   Import all the modularized css files to `css/styles.css`
 
 * Create `js` directory with the following file:
